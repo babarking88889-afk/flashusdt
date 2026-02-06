@@ -1,0 +1,7 @@
+{
+  "name": "Flash USDT Core - Official Generation Suite",
+  "description": "A high-end, professional cryptocurrency utility platform for generating high-validity Flash USDT across multiple blockchain networks and major exchanges.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
